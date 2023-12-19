@@ -1,0 +1,29 @@
+{
+  "name": "deutsche-farbnamen",
+  "version": "0.1.0",
+  "description": "Liste aller deutschen Farbnamen",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/fetch.js && node scripts/createimage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/farbnamen.git.git"
+  },
+  "keywords": [
+    "farben",
+    "namen"
+  ],
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/farbnamen.git/issues"
+  },
+  "homepage": "https://github.com/meodai/farbnamen.git/#readme",
+  "devDependencies": {
+    "culori": "^3.3.0",
+    "puppeteer": "^21.5.2"
+  }
+}

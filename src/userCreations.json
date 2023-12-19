@@ -1,0 +1,84 @@
+{
+  "colors": [
+    {
+      "name": "babyrosa",
+      "hex": "#ebbce3"
+    },
+    {
+      "name": "feuerrot",
+      "hex": "#ba342b"
+    },
+    {
+      "name": "friedhofsblond",
+      "hex": "#e0e0e0"
+    },
+    {
+      "name": "giftgrün",
+      "hex": "#94fb4d"
+    },
+    {
+      "name": "glutorange",
+      "hex": "#ec612b"
+    },
+    {
+      "name": "grasgrün",
+      "hex": "#66a23f"
+    },
+    {
+      "name": "himmelblau",
+      "hex": "#bae2eb"
+    },
+    {
+      "name": "knallrot",
+      "hex": "#e43426"
+    },
+    {
+      "name": "knatschgelb",
+      "hex": "#fbea4e"
+    },
+    {
+      "name": "kohlrabenschwarz",
+      "hex": "#1c1b1b"
+    },
+    {
+      "name": "rabenschwarz",
+      "hex": "#141313"
+    },
+    {
+      "name": "kornblumenblau",
+      "hex": "#7069d8"
+    },
+    {
+      "name": "mausgrau",
+      "hex": "#a5a5a5"
+    },
+    {
+      "name": "pechschwarz",
+      "hex": "#202128"
+    },
+    {
+      "name": "quietschgelb",
+      "hex": "#f2ea4f"
+    },
+    {
+      "name": "schneeweiß",
+      "hex": "#f2f6f7"
+    },
+    {
+      "name": "schokobraun",
+      "hex": "#3d261b"
+    },
+    {
+      "name": "schweinchenrosa",
+      "hex": "#f8dce5"
+    },
+    {
+      "name": "tannengrün",
+      "hex": "#28362d"
+    },
+    {
+      "name": "strohblond",
+      "hex": "#f7e780"
+    }
+  ]
+}
