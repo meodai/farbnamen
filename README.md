@@ -1,6 +1,6 @@
-# Lista de Nombres de Colores
-Una lista de nombres de colores en español.
+# Liste deutscher Farbnamen
+Eine unvollständige Liste deutscher Farbnamen.
 
 ## List of Color Names 🔖 (**365**)
 
-![Toutes les couleurs](colors.svg "Lista de nombres de colores")
+![Liste aller Farben](colors.svg "Liste von allen deutschen Farben")
