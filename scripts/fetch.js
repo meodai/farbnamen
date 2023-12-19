@@ -23,9 +23,10 @@ const pages = [
     sources: [
       'https://de.wikipedia.org/wiki/Liste_der_Farben_im_Farbkreis',
     ],
+    parentSelector: 'body',
     fn: _ => {
       const colorList = [];
-      const colorTable = document.querySelector('.wikitable.sortable.jquery-tablesorter');
+      const colorTable = document.querySelector('.wikitable.sortable');
       const colorRows = colorTable.querySelectorAll('tbody tr');
 
       for (let y = 0; y < colorRows.length; y++) {
@@ -91,10 +92,9 @@ userColors.forEach(color => {
     name: color.name,
     hex: color.hex,
     link: color.hasOwnProperty('link') ? color.link :
-    `https://github.com/meodai/noms-de-couleur/#authors-${color.author}`,
+    `https://github.com/meodai/farbnamen/#authors-${color.author}`,
   })  
 });
-
 
 (async () => {
   const browser = await puppeteer.launch();
@@ -120,13 +120,13 @@ userColors.forEach(color => {
 
   // data sanitization
   
-  // title case each color name
-  
-  
   colors.forEach(c => {
     // Make the first latter of the whole string uppercase
     // https://dict.leo.org/grammatik/deutsch/Rechtschreibung/Regeln/Gross-klein/Titel.xml?lang=de
     c.name = c.name.charAt(0).toUpperCase() + c.name.slice(1);
+
+    // remove double quotes from name
+    c.name = c.name.replace(/"/g, '');
   });
 
 
@@ -143,11 +143,12 @@ userColors.forEach(color => {
   // remove duplicate names from colors list
   // while keeping the first occurence
   colors = colors.filter((c, i) => {
-    const referenceName = c.name.toLowerCase().replace(/-/g, ' ').replace(/Œ/ig, 'oe');
+    const referenceName = c.name.toLowerCase().replace(/-/g, ' ').replace(/Œ/ig, 'oe').replace(/ß/ig, 'ss');
     const index = colors.findIndex(
       c => c.name.toLowerCase()
                  .replace(/-/g, ' ')
                  .replace(/Œ/ig, 'oe')
+                  .replace(/ß/ig, 'ss')
                  .localeCompare(
                     referenceName
                   ) === 0

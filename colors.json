@@ -1,10 +1,5 @@
 [
   {
-    "name": "\"Schokoladen-braun\"",
-    "hex": "#45322e",
-    "link": ""
-  },
-  {
     "name": "Achatgrau",
     "hex": "#b5b8b1",
     "link": ""
@@ -43,7 +38,7 @@
   {
     "name": "Babyrosa",
     "hex": "#ebbce3",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Basaltgrau",
@@ -369,7 +364,7 @@
   {
     "name": "Friedhofsblond",
     "hex": "#e0e0e0",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Frühlingsgrün",
@@ -418,7 +413,7 @@
   {
     "name": "Giftgrün",
     "hex": "#94fb4d",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Ginstergelb",
@@ -428,7 +423,7 @@
   {
     "name": "Glutorange",
     "hex": "#ec612b",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Gold",
@@ -665,12 +660,12 @@
   {
     "name": "Knallrot",
     "hex": "#e43426",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Knatschgelb",
     "hex": "#fbea4e",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Kobaltblau",
@@ -680,7 +675,7 @@
   {
     "name": "Kohlrabenschwarz",
     "hex": "#1c1b1b",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Koralle",
@@ -694,7 +689,7 @@
   {
     "name": "Kornblumenblau",
     "hex": "#7069d8",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Krapplack",
@@ -1059,7 +1054,7 @@
   {
     "name": "Pechschwarz",
     "hex": "#202128",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Perlbeige",
@@ -1186,12 +1181,12 @@
   {
     "name": "Quietschgelb",
     "hex": "#f2ea4f",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Rabenschwarz",
     "hex": "#141313",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Rapsgelb",
@@ -1323,16 +1318,21 @@
   {
     "name": "Schneeweiß",
     "hex": "#f2f6f7",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Schokobraun",
     "hex": "#3d261b",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Schokolade",
     "hex": "#d2691e"
+  },
+  {
+    "name": "Schokoladen-braun",
+    "hex": "#45322e",
+    "link": ""
   },
   {
     "name": "Schwarz",
@@ -1376,7 +1376,7 @@
   {
     "name": "Schweinchenrosa",
     "hex": "#f8dce5",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Seegrün",
@@ -1485,7 +1485,7 @@
   {
     "name": "Strohblond",
     "hex": "#f7e780",
-    "link": "https://github.com/meodai/noms-de-couleur/#authors-undefined"
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Tannengrün",
