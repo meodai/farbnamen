@@ -17,6 +17,7 @@ const ralColorsInGerman = ralColors.colors.map(c => {return {
 const rgbconv = converter('rgb');
 
 // maybe add https://www.farbenonlineshop.de/collections/edelmineral-silikatfarbe
+// https://alpina-farben.de/sortiment/alpina-feine-farben-wandfarben/
 const pages = [
   {
     name: 'Wikipedia Farbkreis',
