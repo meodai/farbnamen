@@ -115,12 +115,14 @@ const pages = [
 let colors = [...ralColorsInGerman];
 
 userColors.forEach(color => {
-  colors.push({
-    name: color.name,
-    hex: color.hex,
-    link: color.hasOwnProperty('link') ? color.link :
-    `https://github.com/meodai/farbnamen/#authors-${color.author}`,
-  })  
+  if (color.hex) {
+    colors.push({
+      name: color.name,
+      hex: color.hex,
+      link: color.hasOwnProperty('link') ? color.link :
+      `https://github.com/meodai/farbnamen/#authors-${color.author}`,
+    })
+  }
 });
 
 (async () => {

@@ -144,6 +144,871 @@
       "name": "strohblond",
       "hex": "#f7e780",
       "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
+    },
+    {
+      "name": "Basaltblau",
+      "hex": "#7f8da8",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Dragonerblau",
+      "hex": "#5f7aa4",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Himmelblau",
+      "hex": "#b4d6e9",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Lehmblau",
+      "hex": "#c9cedb",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Messerblau",
+      "hex": "#72b9d1",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Morgendunst Blau",
+      "hex": "#5a697c",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Nachtblau",
+      "hex": "#232144",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Nilblau",
+      "hex": "#1f2299",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Porzellanblau",
+      "hex": "#5d6c7d",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Rabenblau",
+      "hex": "#0f2e53",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Rauchblau",
+      "hex": "#686f84",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Saphirblau",
+      "hex": "#384361",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Stahlblau",
+      "hex": "#7a8aa5",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Türkisblau",
+      "hex": "#3b8587",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Bronzebraun",
+      "hex": "#4f422c",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kaffeebraun",
+      "hex": "#3f2917",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Nachtbraun",
+      "hex": "#53453f",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Rostbraun",
+      "hex": "#7f3523",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Sepiabraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Stahlbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Terrakottbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Torfbraun",
+      "hex": "#674e3f",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Chinaseidengelb",
+      "hex": "#afa468",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Chromgelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Elfenbeingelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Föhngelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Goldgelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kadmiumgelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Messinggelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Schwefelgelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Wespengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Aschgrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Asphaltgrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Eisgrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Elefantengrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Eselgrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Flohgrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Mondgrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Protoplasmagrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Regengrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Samengrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Schiefergrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Silbergrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Steingrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Wolkengrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Bronzegrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Flaschengrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Jadegrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kupfergrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Malachitgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Meergrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Modergrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Nephritgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Perlgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Resedagrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Schlammgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Schneckengrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Smaragdgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Zeisiggrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Blutrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Brandrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Feuerrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Flammenrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Fleischrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Hennarot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Karmesinrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Korallenrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Krebsrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Ochsenblutrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Rostrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Rubinrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Scharlachrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Weinrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Ziegelrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Zinnoberrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Eisenschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kaffeeschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kohlenschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Lavaschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Nachtschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Rauchschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Stahlschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Tintenschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Tuschschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Stahlviolett",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Alabasterweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Diamantweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Elfenbeinweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kalkweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Marmorweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Perlenweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Rahmweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Salzweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Schwanenweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Steinweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Zuckerweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Enzianblau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Flachsblau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Heidelbeerblau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Indigoblau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Lavendelblau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Pflaumenblau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Veilchenblau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Corinthbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Eichenbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kastanienbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kakaobraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Laubbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Maronenbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Nelkenbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Schilfrohrbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Tabakbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Zimtbraun",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Ananasgelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Apfelsinengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Aprikosengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Bananengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Erntegelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Ginstergelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Hafergelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Malvengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Marillengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Narzissengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Pflaumengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Pomeranzgelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Quittegelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Safrangelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Strohgelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Weizengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Zimtgelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Zitronengelb",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Rindengrau",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Apfelgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Avocadogrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Erbsengrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Grasgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kiwigrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "lindgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Mandelgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Moosgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Myrtengrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Olivgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Pfefferminzgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Pistaziengrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Schimmelgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Schnittlauchgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Spargelgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Spinatgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Waldgrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Zitronengrün",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kürbisorange",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Zyklamerosa",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Amarantorot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Apfelsinenrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Erdbeerrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Geranienrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Granatrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Hagebuttenrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Himbeerrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kastanienrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Kirschrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Nelkenrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Renettenrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Rosenrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Tomatenrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Safranrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Zwetschgenrot",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Brombeerschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Ebenholzschwarz",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Glockenblumenviolett",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Wickenviolett",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Baumwollweiß",
+      "hex": "",
+      "source": "https://flora-obscura.de/"
+    },
+    {
+      "name": "Lilienweiß",
+      "hex": "#e8e9e7",
+      "source": "https://flora-obscura.de/"
     }
   ]
 }

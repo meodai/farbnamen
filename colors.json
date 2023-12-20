@@ -50,6 +50,11 @@
     "link": "https://alpina-farben.de/"
   },
   {
+    "name": "Basaltblau",
+    "hex": "#7f8da8",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+  },
+  {
     "name": "Basaltgrau",
     "hex": "#4e5754",
     "link": ""
@@ -215,6 +220,11 @@
     "link": ""
   },
   {
+    "name": "Bronzebraun",
+    "hex": "#4f422c",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+  },
+  {
     "name": "Cadmiumgelb",
     "hex": "#fff600",
     "link": "https://en.wikipedia.org/wiki/Citrine_(colour)"
@@ -228,6 +238,11 @@
     "name": "Chiffongelb",
     "hex": "#fffacd",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Chinaseidengelb",
+    "hex": "#afa468",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
   },
   {
     "name": "Chromoxidgrün",
@@ -298,6 +313,11 @@
     "name": "Drachengrün",
     "hex": "#51b7a6",
     "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Dragonerblau",
+    "hex": "#5f7aa4",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
   },
   {
     "name": "Dunkelblau",
@@ -865,6 +885,11 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Kaffeebraun",
+    "hex": "#3f2917",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+  },
+  {
     "name": "Karmesinrot",
     "hex": "#dc143c",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
@@ -1025,6 +1050,11 @@
     "link": "https://alpina-farben.de/"
   },
   {
+    "name": "Lehmblau",
+    "hex": "#c9cedb",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+  },
+  {
     "name": "Lehmbraun",
     "hex": "#734222",
     "link": ""
@@ -1100,6 +1130,11 @@
     "link": ""
   },
   {
+    "name": "Lilienweiß",
+    "hex": "#e8e9e7",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+  },
+  {
     "name": "Luftschloss",
     "hex": "#94c9e4",
     "link": "https://alpina-farben.de/"
@@ -1168,6 +1203,11 @@
     "name": "Melonengelb",
     "hex": "#f4a900",
     "link": ""
+  },
+  {
+    "name": "Messerblau",
+    "hex": "#72b9d1",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
   },
   {
     "name": "Minttürkis",
@@ -1260,6 +1300,11 @@
     "link": ""
   },
   {
+    "name": "Morgendunst Blau",
+    "hex": "#5a697c",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+  },
+  {
     "name": "Muschel",
     "hex": "#fff5ee",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
@@ -1273,6 +1318,11 @@
     "name": "Nachtblau",
     "hex": "#252850",
     "link": ""
+  },
+  {
+    "name": "Nachtbraun",
+    "hex": "#53453f",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
   },
   {
     "name": "Narzissengelb",
@@ -1293,6 +1343,11 @@
     "name": "Nebelzauber",
     "hex": "#cac6c3",
     "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Nilblau",
+    "hex": "#1f2299",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
   },
   {
     "name": "Nilpferdlila",
@@ -1580,6 +1635,11 @@
     "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
   },
   {
+    "name": "Porzellanblau",
+    "hex": "#5d6c7d",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+  },
+  {
     "name": "Preußischblau",
     "hex": "#003153",
     "link": "https://de.wikipedia.org//wiki/Berliner_Blau"
@@ -1605,6 +1665,11 @@
     "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
+    "name": "Rabenblau",
+    "hex": "#0f2e53",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+  },
+  {
     "name": "Rabenschwarz",
     "hex": "#141313",
     "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
@@ -1616,8 +1681,8 @@
   },
   {
     "name": "Rauchblau",
-    "hex": "#acb7c0",
-    "link": "https://alpina-farben.de/"
+    "hex": "#686f84",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
   },
   {
     "name": "Rauchiges Weiß",
@@ -1683,6 +1748,11 @@
     "name": "Rosmaringrün",
     "hex": "#6a8974",
     "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Rostbraun",
+    "hex": "#7f3523",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
   },
   {
     "name": "Rosé",
@@ -2088,6 +2158,11 @@
     "name": "Tomatenrot",
     "hex": "#a12312",
     "link": ""
+  },
+  {
+    "name": "Torfbraun",
+    "hex": "#674e3f",
+    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
   },
   {
     "name": "Türkis",
