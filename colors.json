@@ -6,11 +6,13 @@
   },
   {
     "name": "Aliceblau",
-    "hex": "#a0ce00"
+    "hex": "#a0ce00",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Altgold",
-    "hex": "#fdf5e6"
+    "hex": "#fdf5e6",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Altrosa",
@@ -24,11 +26,13 @@
   },
   {
     "name": "Antikes Weiß",
-    "hex": "#faebd7"
+    "hex": "#faebd7",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Aquamarinblau",
-    "hex": "#7fffd4"
+    "hex": "#7fffd4",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Azurblau",
@@ -77,15 +81,18 @@
   },
   {
     "name": "Blasse Goldrutenfarbe",
-    "hex": "#eee8aa"
+    "hex": "#eee8aa",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Blasses Türkis",
-    "hex": "#afeeee"
+    "hex": "#afeeee",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Blasses Violettrot",
-    "hex": "#db7093"
+    "hex": "#db7093",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Blassgrün",
@@ -99,7 +106,8 @@
   },
   {
     "name": "Blau",
-    "hex": "#0000ff"
+    "hex": "#0000ff",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Blaugrau",
@@ -128,7 +136,8 @@
   },
   {
     "name": "Blütenweiß",
-    "hex": "#fffaf0"
+    "hex": "#fffaf0",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Bordeauxviolett",
@@ -137,7 +146,8 @@
   },
   {
     "name": "Braun",
-    "hex": "#a52a2a"
+    "hex": "#a52a2a",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Braunbeige",
@@ -186,7 +196,8 @@
   },
   {
     "name": "Chiffongelb",
-    "hex": "#fffacd"
+    "hex": "#fffacd",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Chromoxidgrün",
@@ -205,11 +216,13 @@
   },
   {
     "name": "Cremig Pfefferminz",
-    "hex": "#f5fffa"
+    "hex": "#f5fffa",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Cremiges Papaya",
-    "hex": "#ffefd5"
+    "hex": "#ffefd5",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Currygelb",
@@ -228,79 +241,98 @@
   },
   {
     "name": "Distel",
-    "hex": "#d8bfd8"
+    "hex": "#d8bfd8",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dodger-Blau",
-    "hex": "#1e90ff"
+    "hex": "#1e90ff",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkelblau",
-    "hex": "#00008b"
+    "hex": "#00008b",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkelgrau",
-    "hex": "#a9a9a9"
+    "hex": "#a9a9a9",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkelgrün",
-    "hex": "#006400"
+    "hex": "#006400",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkelrot",
-    "hex": "#8b0000"
+    "hex": "#8b0000",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkle Goldrutenfarbe",
-    "hex": "#b8860b"
+    "hex": "#b8860b",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkle Lachsfarbe",
-    "hex": "#e9967a"
+    "hex": "#e9967a",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkle Orchideenfarbe",
-    "hex": "#9932cc"
+    "hex": "#9932cc",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Khaki",
-    "hex": "#bdb76b"
+    "hex": "#bdb76b",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Magentarot",
-    "hex": "#8b008b"
+    "hex": "#8b008b",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Olivgrün",
-    "hex": "#556b2f"
+    "hex": "#556b2f",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Orange",
-    "hex": "#ff8c00"
+    "hex": "#ff8c00",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Schieferblau",
-    "hex": "#483d8b"
+    "hex": "#483d8b",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Schiefergrau",
-    "hex": "#8fbc8f"
+    "hex": "#8fbc8f",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Seegrün",
-    "hex": "#90bd90"
+    "hex": "#90bd90",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Türkis",
-    "hex": "#00ced1"
+    "hex": "#00ced1",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Violett",
-    "hex": "#9400d3"
+    "hex": "#9400d3",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Zyanblau",
-    "hex": "#008b8b"
+    "hex": "#008b8b",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Eisengrau",
@@ -314,7 +346,8 @@
   },
   {
     "name": "Entenbraun",
-    "hex": "#008080"
+    "hex": "#008080",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Enzianblau",
@@ -368,27 +401,33 @@
   },
   {
     "name": "Frühlingsgrün",
-    "hex": "#00ff7f"
+    "hex": "#00ff7f",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Fuchsie",
-    "hex": "#ff00ff"
+    "hex": "#ff00ff",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Gainsboro",
-    "hex": "#dcdcdc"
+    "hex": "#dcdcdc",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Geisterweiß",
-    "hex": "#f8f8ff"
+    "hex": "#f8f8ff",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Gelb",
-    "hex": "#ffff00"
+    "hex": "#ffff00",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Gelbbraun",
-    "hex": "#d2b48c"
+    "hex": "#d2b48c",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Gelbgrau",
@@ -427,7 +466,8 @@
   },
   {
     "name": "Gold",
-    "hex": "#ffd700"
+    "hex": "#ffd700",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Goldgelb",
@@ -436,7 +476,8 @@
   },
   {
     "name": "Goldrute",
-    "hex": "#daa520"
+    "hex": "#daa520",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Granitgrau",
@@ -460,7 +501,8 @@
   },
   {
     "name": "Grau",
-    "hex": "#808080"
+    "hex": "#808080",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Graualuminium",
@@ -494,11 +536,13 @@
   },
   {
     "name": "Grobes Braun",
-    "hex": "#deb887"
+    "hex": "#deb887",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Grün",
-    "hex": "#008000"
+    "hex": "#008000",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Grünbeige",
@@ -517,7 +561,8 @@
   },
   {
     "name": "Grüngelb",
-    "hex": "#adff2f"
+    "hex": "#adff2f",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Grüngrau",
@@ -526,11 +571,13 @@
   },
   {
     "name": "Hellblau",
-    "hex": "#add8e6"
+    "hex": "#add8e6",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Helle Lachsfarbe",
-    "hex": "#ffa07a"
+    "hex": "#ffa07a",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Hellelfenbein",
@@ -539,43 +586,53 @@
   },
   {
     "name": "Helles Cyanblau",
-    "hex": "#e0ffff"
+    "hex": "#e0ffff",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Helles Goldrutengelb",
-    "hex": "#fafad2"
+    "hex": "#fafad2",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Helles Himmelblau",
-    "hex": "#87cefa"
+    "hex": "#87cefa",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Helles Korallenrot",
-    "hex": "#f08080"
+    "hex": "#f08080",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Helles Schiefergrau",
-    "hex": "#778899"
+    "hex": "#778899",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Helles Seegrün",
-    "hex": "#20b2aa"
+    "hex": "#20b2aa",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Helles Stahlblau",
-    "hex": "#b0c4de"
+    "hex": "#b0c4de",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Hellgelb",
-    "hex": "#ffffe0"
+    "hex": "#ffffe0",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Hellgrau",
-    "hex": "#d3d3d3"
+    "hex": "#d3d3d3",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Hellgrün",
-    "hex": "#90ee90"
+    "hex": "#90ee90",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Hellrosa",
@@ -604,7 +661,8 @@
   },
   {
     "name": "Honigmelone",
-    "hex": "#f0fff0"
+    "hex": "#f0fff0",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Indigo",
@@ -618,15 +676,18 @@
   },
   {
     "name": "Indischrot",
-    "hex": "#cd5c5c"
+    "hex": "#cd5c5c",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Kadettblau",
-    "hex": "#5f9ea0"
+    "hex": "#5f9ea0",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Karmesinrot",
-    "hex": "#dc143c"
+    "hex": "#dc143c",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Karminrot",
@@ -640,7 +701,8 @@
   },
   {
     "name": "Khaki",
-    "hex": "#f0e68c"
+    "hex": "#f0e68c",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Khakigrau",
@@ -679,7 +741,8 @@
   },
   {
     "name": "Koralle",
-    "hex": "#ff7f50"
+    "hex": "#ff7f50",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Korallenrot",
@@ -697,17 +760,24 @@
     "link": "https://de.wikipedia.org//wiki/Krapplack"
   },
   {
+    "name": "Kreideweiß",
+    "hex": "#f1ebe4",
+    "link": "https://github.com/meodai/farbnamen/#authors-David Büsser"
+  },
+  {
     "name": "Kupferbraun",
     "hex": "#8e402a",
     "link": ""
   },
   {
     "name": "Königsblau",
-    "hex": "#4169e1"
+    "hex": "#4169e1",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Lachs",
-    "hex": "#fa8072"
+    "hex": "#fa8072",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Lachsorange",
@@ -726,7 +796,8 @@
   },
   {
     "name": "Lavendelfarbe",
-    "hex": "#e6e6fa"
+    "hex": "#e6e6fa",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Lehmbraun",
@@ -735,11 +806,18 @@
   },
   {
     "name": "Leinenfarbe",
-    "hex": "#faf0e6"
+    "hex": "#faf0e6",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Leinenweiß",
+    "hex": "#ebe8e0",
+    "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
   },
   {
     "name": "Leuchtendes Rosa",
-    "hex": "#ff69b4"
+    "hex": "#ff69b4",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Leuchtgelb",
@@ -788,7 +866,8 @@
   },
   {
     "name": "Magentarot",
-    "hex": "#fe01fe"
+    "hex": "#fe01fe",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mahagonibraun",
@@ -802,7 +881,8 @@
   },
   {
     "name": "Mais",
-    "hex": "#fff8dc"
+    "hex": "#fff8dc",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Maisgelb",
@@ -811,15 +891,18 @@
   },
   {
     "name": "Mandelweiß",
-    "hex": "#ffebcd"
+    "hex": "#ffebcd",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Marineblau",
-    "hex": "#000080"
+    "hex": "#000080",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mattes Grau",
-    "hex": "#696969"
+    "hex": "#696969",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mausgrau",
@@ -863,39 +946,48 @@
   },
   {
     "name": "Mitternachtsblau",
-    "hex": "#191970"
+    "hex": "#191970",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mittlere Orchideenfarbe",
-    "hex": "#ba55d3"
+    "hex": "#ba55d3",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mittleres Aquamarinblau",
-    "hex": "#66cdaa"
+    "hex": "#66cdaa",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mittleres Frühlingsgrün",
-    "hex": "#00fa9a"
+    "hex": "#00fa9a",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mittleres Schieferblau",
-    "hex": "#7b68ee"
+    "hex": "#7b68ee",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mittleres Seegrün",
-    "hex": "#3cb371"
+    "hex": "#3cb371",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mittleres Türkis",
-    "hex": "#48d1cc"
+    "hex": "#48d1cc",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mittleres Violett",
-    "hex": "#9370db"
+    "hex": "#9370db",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Mittleres Violettrot",
-    "hex": "#c71585"
+    "hex": "#c71585",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Moosgrau",
@@ -909,7 +1001,8 @@
   },
   {
     "name": "Muschel",
-    "hex": "#fff5ee"
+    "hex": "#fff5ee",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Nachtblau",
@@ -923,7 +1016,8 @@
   },
   {
     "name": "Navajoweiß",
-    "hex": "#ffdead"
+    "hex": "#ffdead",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Nussbraun",
@@ -952,7 +1046,8 @@
   },
   {
     "name": "Olivfarbiges Graubraun",
-    "hex": "#6b8e23"
+    "hex": "#6b8e23",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Olivgelb",
@@ -976,7 +1071,8 @@
   },
   {
     "name": "Orange",
-    "hex": "#ffa500"
+    "hex": "#ffa500",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Orangebraun",
@@ -985,11 +1081,13 @@
   },
   {
     "name": "Orangenrot",
-    "hex": "#ff4500"
+    "hex": "#ff4500",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Orchidee",
-    "hex": "#da70d6"
+    "hex": "#da70d6",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Orientrot",
@@ -1138,15 +1236,18 @@
   },
   {
     "name": "Peru",
-    "hex": "#cd853f"
+    "hex": "#cd853f",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Pfirsich",
-    "hex": "#ffdab9"
+    "hex": "#ffdab9",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Pflaume",
-    "hex": "#dda0dd"
+    "hex": "#dda0dd",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Phthalogrün",
@@ -1195,7 +1296,8 @@
   },
   {
     "name": "Rauchiges Weiß",
-    "hex": "#f5f5f5"
+    "hex": "#f5f5f5",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Rehbraun",
@@ -1229,15 +1331,18 @@
   },
   {
     "name": "Rosa",
-    "hex": "#ffc0cb"
+    "hex": "#ffc0cb",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Rosige Lavenderfarbe",
-    "hex": "#fff0f5"
+    "hex": "#fff0f5",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Rosiges Braun",
-    "hex": "#bc8f8f"
+    "hex": "#bc8f8f",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Rosé",
@@ -1246,7 +1351,8 @@
   },
   {
     "name": "Rot",
-    "hex": "#ff0000"
+    "hex": "#ff0000",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Rotbraun",
@@ -1280,7 +1386,8 @@
   },
   {
     "name": "Sandbraun",
-    "hex": "#f4a460"
+    "hex": "#f4a460",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Sandgelb",
@@ -1294,7 +1401,8 @@
   },
   {
     "name": "Sattelbraun",
-    "hex": "#8b4513"
+    "hex": "#8b4513",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Scharlachrot",
@@ -1303,7 +1411,8 @@
   },
   {
     "name": "Schieferblau",
-    "hex": "#6a5acd"
+    "hex": "#6a5acd",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Schiefergrau",
@@ -1327,7 +1436,8 @@
   },
   {
     "name": "Schokolade",
-    "hex": "#d2691e"
+    "hex": "#d2691e",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Schokoladen-braun",
@@ -1336,7 +1446,8 @@
   },
   {
     "name": "Schwarz",
-    "hex": "#000000"
+    "hex": "#000000",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Schwarzblau",
@@ -1450,7 +1561,8 @@
   },
   {
     "name": "Silber",
-    "hex": "#c0c0c0"
+    "hex": "#c0c0c0",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Silbergrau",
@@ -1529,7 +1641,8 @@
   },
   {
     "name": "Tiefes Himmelblau",
-    "hex": "#00bfff"
+    "hex": "#00bfff",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Tieforange",
@@ -1538,7 +1651,8 @@
   },
   {
     "name": "Tiefrosa",
-    "hex": "#ff1493"
+    "hex": "#ff1493",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Tiefschwarz",
@@ -1547,7 +1661,8 @@
   },
   {
     "name": "Tomatencreme",
-    "hex": "#ffe4c4"
+    "hex": "#ffe4c4",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Tomatenrot",
@@ -1651,7 +1766,8 @@
   },
   {
     "name": "Waldgrün",
-    "hex": "#228b22"
+    "hex": "#228b22",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Wasserblau",
@@ -1665,11 +1781,13 @@
   },
   {
     "name": "Weizen",
-    "hex": "#f5deb3"
+    "hex": "#f5deb3",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Weiß",
-    "hex": "#fefefe"
+    "hex": "#fefefe",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Weißaluminium",
@@ -1693,7 +1811,8 @@
   },
   {
     "name": "Ziegelfarbe",
-    "hex": "#b22222"
+    "hex": "#b22222",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Zinkgelb",
@@ -1712,11 +1831,13 @@
   },
   {
     "name": "Zitronengrün",
-    "hex": "#00ff00"
+    "hex": "#00ff00",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Zyanblau",
-    "hex": "#01fefe"
+    "hex": "#01fefe",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Züriblau",

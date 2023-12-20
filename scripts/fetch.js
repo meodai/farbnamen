@@ -16,7 +16,7 @@ const ralColorsInGerman = ralColors.colors.map(c => {return {
 
 const rgbconv = converter('rgb');
 
-
+// maybe add https://www.farbenonlineshop.de/collections/edelmineral-silikatfarbe
 const pages = [
   {
     name: 'Wikipedia Farbkreis',
@@ -75,8 +75,9 @@ const pages = [
         const colorRow = colorRows[y];
         const name = colorRow.querySelector('td:nth-child(4)').innerHTML.trim();
         const hex = colorRow.querySelector('td:nth-child(3)').innerHTML.trim();
+        const link = 'https://bfw.ac.at/020/farbtabelle.html';
         colorList.push({
-          name, hex,
+          name, hex, link,
         });
       }
 
