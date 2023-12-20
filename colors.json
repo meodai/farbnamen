@@ -45,9 +45,19 @@
     "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
+    "name": "Balance",
+    "hex": "#dae3c4",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Basaltgrau",
     "hex": "#4e5754",
     "link": ""
+  },
+  {
+    "name": "Beerenrot",
+    "hex": "#a45054",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Beige",
@@ -58,6 +68,11 @@
     "name": "Beigebraun",
     "hex": "#79553d",
     "link": ""
+  },
+  {
+    "name": "Beigegelb",
+    "hex": "#dfcba4",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Beigegrau",
@@ -73,6 +88,16 @@
     "name": "Betongrau",
     "hex": "#686c5e",
     "link": ""
+  },
+  {
+    "name": "Bienengelb",
+    "hex": "#fce876",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Biscotti",
+    "hex": "#f2af7a",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Blassbraun",
@@ -108,6 +133,11 @@
     "name": "Blau",
     "hex": "#0000ff",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Blaue Stunde",
+    "hex": "#2f3b5d",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Blaugrau",
@@ -210,6 +240,11 @@
     "link": "https://de.wikipedia.org/wiki/Liste_der_Farben_im_Farbkreis"
   },
   {
+    "name": "Cremebeige",
+    "hex": "#f4ece0",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Cremeweiß",
     "hex": "#fdf4e3",
     "link": ""
@@ -223,6 +258,11 @@
     "name": "Cremiges Papaya",
     "hex": "#ffefd5",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Cupcake",
+    "hex": "#8a6973",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Currygelb",
@@ -240,6 +280,11 @@
     "link": ""
   },
   {
+    "name": "Delphinblau",
+    "hex": "#aac8dd",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Distel",
     "hex": "#d8bfd8",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
@@ -248,6 +293,11 @@
     "name": "Dodger-Blau",
     "hex": "#1e90ff",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Drachengrün",
+    "hex": "#51b7a6",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Dunkelblau",
@@ -268,6 +318,11 @@
     "name": "Dunkelrot",
     "hex": "#8b0000",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Dunkle Eleganz",
+    "hex": "#3e4345",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Dunkle Goldrutenfarbe",
@@ -335,9 +390,44 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Edles Mauve",
+    "hex": "#b4a8ad",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Ein Hauch von Gelb",
+    "hex": "#f5eed1",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Einhornrosa",
+    "hex": "#f8ebe6",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Eisblau",
+    "hex": "#c8d6d3",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Eisbonbon",
+    "hex": "#cce8e6",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Eisbärweiß",
+    "hex": "#fdfef6",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Eisengrau",
     "hex": "#434b4d",
     "link": ""
+  },
+  {
+    "name": "Elefantengrau",
+    "hex": "#d7d4d1",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Elfenbein",
@@ -365,6 +455,11 @@
     "link": ""
   },
   {
+    "name": "Eukalyptusgrün",
+    "hex": "#aaae99",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Farngrün",
     "hex": "#3d642d",
     "link": ""
@@ -373,6 +468,16 @@
     "name": "Fehgrau",
     "hex": "#78858b",
     "link": ""
+  },
+  {
+    "name": "Feigenviolett",
+    "hex": "#645363",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Felsgrau",
+    "hex": "#8f8c86",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Fenstergrau",
@@ -390,9 +495,29 @@
     "link": ""
   },
   {
+    "name": "Fischblau",
+    "hex": "#e3edf0",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Flamingorosa",
+    "hex": "#fbd3d6",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Flammendes Herz",
+    "hex": "#8a2a36",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Flaschengrün",
     "hex": "#343b29",
     "link": ""
+  },
+  {
+    "name": "Fliederfest",
+    "hex": "#cab1cb",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Friedhofsblond",
@@ -400,9 +525,19 @@
     "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
+    "name": "Froschgrün",
+    "hex": "#6aba71",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Frühlingsgrün",
     "hex": "#00ff7f",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Frühlingswiese",
+    "hex": "#c8cf5c",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Fuchsie",
@@ -410,9 +545,19 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Fuchsorange",
+    "hex": "#ffb972",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Gainsboro",
     "hex": "#dcdcdc",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Geckogrün",
+    "hex": "#9dd1c7",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Geisterweiß",
@@ -458,6 +603,11 @@
     "name": "Ginstergelb",
     "hex": "#d6ae01",
     "link": ""
+  },
+  {
+    "name": "Gletscherblau",
+    "hex": "#94b0b7",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Glutorange",
@@ -530,6 +680,11 @@
     "link": ""
   },
   {
+    "name": "Grauviolett",
+    "hex": "#dad4db",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Grauweiß",
     "hex": "#e7ebda",
     "link": ""
@@ -560,6 +715,11 @@
     "link": ""
   },
   {
+    "name": "Grüne Poesie",
+    "hex": "#d8ee9c",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Grüngelb",
     "hex": "#adff2f",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
@@ -568,6 +728,21 @@
     "name": "Grüngrau",
     "hex": "#4d5645",
     "link": ""
+  },
+  {
+    "name": "Hafergelb",
+    "hex": "#e6c37e",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Hamsterbeige",
+    "hex": "#e7dece",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Happy Weekend",
+    "hex": "#ffb856",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Hellblau",
@@ -665,6 +840,11 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Hula Hoop",
+    "hex": "#d37972",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Indigo",
     "hex": "#4b0082",
     "link": "https://de.wikipedia.org//wiki/Indigo_(Farbe)"
@@ -720,6 +900,11 @@
     "link": ""
   },
   {
+    "name": "Kieselstrand",
+    "hex": "#c1c4c5",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Knallrot",
     "hex": "#e43426",
     "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
@@ -740,9 +925,19 @@
     "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
+    "name": "Kolibrigrün",
+    "hex": "#bbd9c6",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Koralle",
     "hex": "#ff7f50",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Korallenpink",
+    "hex": "#e87c8d",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Korallenrot",
@@ -760,6 +955,11 @@
     "link": "https://de.wikipedia.org//wiki/Krapplack"
   },
   {
+    "name": "Kreideblau",
+    "hex": "#dbe3e4",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Kreideweiß",
     "hex": "#f1ebe4",
     "link": "https://github.com/meodai/farbnamen/#authors-David Büsser"
@@ -770,9 +970,29 @@
     "link": ""
   },
   {
+    "name": "Kupferorange",
+    "hex": "#bc7b59",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Käferrot",
+    "hex": "#f67066",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Kängurubeige",
+    "hex": "#f8ecd3",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Königsblau",
     "hex": "#4169e1",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Kükengelb",
+    "hex": "#f7eec1",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Lachs",
@@ -798,6 +1018,11 @@
     "name": "Lavendelfarbe",
     "hex": "#e6e6fa",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Lavendelviolett",
+    "hex": "#b9b3bd",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Lehmbraun",
@@ -850,9 +1075,19 @@
     "link": ""
   },
   {
+    "name": "Libellenblau",
+    "hex": "#cfe7ef",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Lichtblau",
     "hex": "#3b83bd",
     "link": ""
+  },
+  {
+    "name": "Lichtes Gelb",
+    "hex": "#f7ebb3",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Lichtgrau",
@@ -863,6 +1098,11 @@
     "name": "Lichtgrün",
     "hex": "#84c3be",
     "link": ""
+  },
+  {
+    "name": "Luftschloss",
+    "hex": "#94c9e4",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Magentarot",
@@ -890,6 +1130,16 @@
     "link": ""
   },
   {
+    "name": "Mandelbeige",
+    "hex": "#eddfce",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Mandelblüte",
+    "hex": "#f6d8e0",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Mandelweiß",
     "hex": "#ffebcd",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
@@ -898,6 +1148,11 @@
     "name": "Marineblau",
     "hex": "#000080",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Marrakesch",
+    "hex": "#ed9d59",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Mattes Grau",
@@ -990,6 +1245,11 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Mondgrau",
+    "hex": "#ebe5e0",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Moosgrau",
     "hex": "#6c7059",
     "link": ""
@@ -1003,6 +1263,11 @@
     "name": "Muschel",
     "hex": "#fff5ee",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Muschelweiß",
+    "hex": "#f2eadc",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Nachtblau",
@@ -1025,6 +1290,21 @@
     "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
   },
   {
+    "name": "Nebelzauber",
+    "hex": "#cac6c3",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Nilpferdlila",
+    "hex": "#dcd8e3",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Nordmeer",
+    "hex": "#627791",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Nussbraun",
     "hex": "#5b3a29",
     "link": ""
@@ -1043,6 +1323,11 @@
     "name": "Ockergelb",
     "hex": "#aea04b",
     "link": ""
+  },
+  {
+    "name": "Oktopuslila",
+    "hex": "#beb9ca",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Olivbraun",
@@ -1110,6 +1395,16 @@
     "link": ""
   },
   {
+    "name": "Papageiengrün",
+    "hex": "#ccdea1",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Papayaorange",
+    "hex": "#ffc9a9",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Papyrusweiß",
     "hex": "#d8d8d8",
     "link": ""
@@ -1118,6 +1413,11 @@
     "name": "Pariserblau",
     "hex": "#4040ff",
     "link": "https://de.wikipedia.org//wiki/Pariserblau"
+  },
+  {
+    "name": "Party Pink",
+    "hex": "#e393b9",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Pastellblau",
@@ -1245,6 +1545,11 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Petrol de Luxe",
+    "hex": "#2e7b7f",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Pfirsich",
     "hex": "#ffdab9",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
@@ -1258,6 +1563,11 @@
     "name": "Phthalogrün",
     "hex": "#123524",
     "link": "https://de.wikipedia.org/wiki/Liste_der_Farben_im_Farbkreis"
+  },
+  {
+    "name": "Pistaziengrün",
+    "hex": "#c2c7aa",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Platingrau",
@@ -1305,9 +1615,19 @@
     "link": ""
   },
   {
+    "name": "Rauchblau",
+    "hex": "#acb7c0",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Rauchiges Weiß",
     "hex": "#f5f5f5",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Raupengrün",
+    "hex": "#e9f6c7",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Rehbraun",
@@ -1340,6 +1660,11 @@
     "link": ""
   },
   {
+    "name": "Rhabarberrot",
+    "hex": "#ac7870",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Rosa",
     "hex": "#ffc0cb",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
@@ -1355,9 +1680,19 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Rosmaringrün",
+    "hex": "#6a8974",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Rosé",
     "hex": "#e63244",
     "link": ""
+  },
+  {
+    "name": "Rosérot",
+    "hex": "#fbdad6",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Rot",
@@ -1368,6 +1703,11 @@
     "name": "Rotbraun",
     "hex": "#592321",
     "link": ""
+  },
+  {
+    "name": "Roter Ahorn",
+    "hex": "#c55954",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Rotlila",
@@ -1395,6 +1735,11 @@
     "link": ""
   },
   {
+    "name": "Sandbeige",
+    "hex": "#e0ceb6",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Sandbraun",
     "hex": "#f4a460",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
@@ -1403,6 +1748,16 @@
     "name": "Sandgelb",
     "hex": "#c6a664",
     "link": ""
+  },
+  {
+    "name": "Sanfte Erde",
+    "hex": "#816e60",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Sanftes Cashmere",
+    "hex": "#ebddcd",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Saphirblau",
@@ -1500,9 +1855,19 @@
     "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
+    "name": "Seebärblau",
+    "hex": "#6092b5",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Seegrün",
     "hex": "#2e8b57",
     "link": "https://de.wikipedia.org//wiki/T%C3%BCrkis_(Farbe)"
+  },
+  {
+    "name": "Seesternorange",
+    "hex": "#ffe0b4",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Seidengrau",
@@ -1580,14 +1945,34 @@
     "link": ""
   },
   {
+    "name": "Sinfonie",
+    "hex": "#763f4f",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Smaragdgrün",
     "hex": "#287233",
     "link": ""
   },
   {
+    "name": "Sommerzeit",
+    "hex": "#fcdd61",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Sonnengelb",
     "hex": "#f39f18",
     "link": ""
+  },
+  {
+    "name": "Sonnenstrahl",
+    "hex": "#fde389",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Stadtgeflüster",
+    "hex": "#9e9e9e",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Stahlblau",
@@ -1605,6 +1990,11 @@
     "link": ""
   },
   {
+    "name": "Stilles Wasser",
+    "hex": "#d0e3ed",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Straßenköterblond",
     "hex": "#d4c5b2",
     "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
@@ -1615,6 +2005,11 @@
     "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
+    "name": "Sweet Home",
+    "hex": "#fbe1c1",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Tannengrün",
     "hex": "#31372b",
     "link": ""
@@ -1623,6 +2018,11 @@
     "name": "Taubenblau",
     "hex": "#606e8c",
     "link": ""
+  },
+  {
+    "name": "Tea Time",
+    "hex": "#bda78c",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Telegrau 1",
@@ -1648,6 +2048,11 @@
     "name": "Terrabraun",
     "hex": "#4e3b31",
     "link": ""
+  },
+  {
+    "name": "Tiefer Traum",
+    "hex": "#431832",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Tiefes Himmelblau",
@@ -1713,6 +2118,11 @@
     "name": "Umbragrau",
     "hex": "#332f2c",
     "link": ""
+  },
+  {
+    "name": "Vanillegelb",
+    "hex": "#fbeebf",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Venezianischrot",
@@ -1790,14 +2200,34 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Wanderlust",
+    "hex": "#b6ae8b",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Wasserblau",
     "hex": "#256d7b",
     "link": ""
   },
   {
+    "name": "Wasserfall",
+    "hex": "#b4dabf",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Weicher Sand",
+    "hex": "#dcccb5",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Weinrot",
     "hex": "#5e2129",
     "link": ""
+  },
+  {
+    "name": "Weiter Horizont",
+    "hex": "#3788ae",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Weizen",
@@ -1818,6 +2248,36 @@
     "name": "Weißgrün",
     "hex": "#bdecb6",
     "link": ""
+  },
+  {
+    "name": "Wellenblau",
+    "hex": "#b8d6e5",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Wildes Paradies",
+    "hex": "#2b875c",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Wolkengrau",
+    "hex": "#c4c0be",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Wolkenreise",
+    "hex": "#f6f3ec",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Zartes Puder",
+    "hex": "#c0b4a9",
+    "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Zartorange",
+    "hex": "#f9ebe5",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Zauber der Wüste",

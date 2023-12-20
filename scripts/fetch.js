@@ -17,7 +17,7 @@ const ralColorsInGerman = ralColors.colors.map(c => {return {
 const rgbconv = converter('rgb');
 
 // maybe add https://www.farbenonlineshop.de/collections/edelmineral-silikatfarbe
-// https://alpina-farben.de/sortiment/alpina-feine-farben-wandfarben/
+
 const pages = [
   {
     name: 'Wikipedia Farbkreis',
@@ -84,6 +84,31 @@ const pages = [
 
       return colorList;
     }
+  },
+  {
+    name: '',
+    sources: [
+      'https://alpina-farben.de/sortiment/pure-farben/',
+      'https://alpina-farben.de/sortiment/farbrezepte/',
+      'https://alpina-farben.de/sortiment/farbenfreunde-kinderzimmerfarben/',
+    ],
+    fn: _ => {
+      const colorList = [];
+      const $wrap = document.querySelector('.color_nuance_wrapper');
+      const colorCells = document.querySelectorAll('.color_nuance');
+      for (let y = 0; y < colorCells.length; y++) {
+        const cell = colorCells[y];
+        const name = cell.querySelector('h4').innerHTML.trim();
+        const colorSample = cell.querySelector('circle');
+        const hex = colorSample.hasAttribute('fill') ? colorSample.getAttribute('fill') : colorSample.style.fill;
+        const link = 'https://alpina-farben.de/';
+        colorList.push({
+          name, hex, link,
+        });
+      }
+
+      return colorList;
+    }
   }
 ];
 
@@ -110,11 +135,13 @@ userColors.forEach(color => {
       } else {
         await page.waitForSelector('body');
       }
-      await page.goto(pages[j].sources[i]);
       
+      await page.goto(pages[j].sources[i]);
 
       const colorList = await page.evaluate(pages[j].fn);
       colors = colors.concat(colorList);
+      // create a cache file for each page in case the page goes down
+      // fs.writeFileSync(`./cache/${pages[j].name}.json`, JSON.stringify(colorList, null, 2));
     }
   }
 
