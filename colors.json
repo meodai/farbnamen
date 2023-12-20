@@ -1483,6 +1483,11 @@
     "link": ""
   },
   {
+    "name": "Straßenköterblond",
+    "hex": "#d4c5b2",
+    "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
+  },
+  {
     "name": "Strohblond",
     "hex": "#f7e780",
     "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
@@ -1712,5 +1717,10 @@
   {
     "name": "Zyanblau",
     "hex": "#01fefe"
+  },
+  {
+    "name": "Züriblau",
+    "hex": "#0f05a0",
+    "link": "https://github.com/meodai/farbnamen/#authors-David Büsser"
   }
 ]

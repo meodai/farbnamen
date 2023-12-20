@@ -1,6 +1,16 @@
 {
   "colors": [
     {
+      "name": "straßenköterblond",
+      "hex": "#d4c5b2",
+      "author": "@meodai"
+    },
+    {
+      "name": "züriblau",
+      "hex": "#0F05A0",
+      "author": "David Büsser"
+    },
+    {
       "name": "babyrosa",
       "hex": "#ebbce3",
       "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
