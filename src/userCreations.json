@@ -1,6 +1,12 @@
 {
   "colors": [
     {
+      "name": "Grüne Neune",
+      "hex": "#679f2e",
+      "author": "David Aerne",
+      "link": "https://www.geo.de/geolino/redewendungen/6656-rtkl-redewendung-ach-du-gruene-neune"
+    },
+    {
       "name": "straßenköterblond",
       "hex": "#d4c5b2",
       "author": "@meodai"
