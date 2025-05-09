@@ -770,6 +770,11 @@
     "link": "https://alpina-farben.de/"
   },
   {
+    "name": "Held",
+    "hex": "#ffffff",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Hellblau",
     "hex": "#add8e6",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
@@ -1340,7 +1345,7 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
-    "name": "Nebel im Novermber",
+    "name": "Nebel im November",
     "hex": "#a5a2a1",
     "link": "https://github.com/meodai/farbnamen/#authors-@meodai"
   },
@@ -1721,7 +1726,7 @@
   },
   {
     "name": "Reinweiß",
-    "hex": "#ffffff",
+    "hex": "#fefefe",
     "link": ""
   },
   {
@@ -2316,7 +2321,7 @@
   },
   {
     "name": "Weiß",
-    "hex": "#fefefe",
+    "hex": "#fdfdfd",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
