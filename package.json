@@ -1,6 +1,6 @@
 {
   "name": "farbnamen",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Liste aller deutschen Farbnamen",
   "main": "index.js",
   "type": "module",
