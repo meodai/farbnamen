@@ -1,6 +1,6 @@
 {
   "name": "farbnamen",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Liste aller deutschen Farbnamen",
   "type": "module",
   "main": "colors.json",
