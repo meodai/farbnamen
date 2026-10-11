@@ -2,11 +2,11 @@
   {
     "name": "Achatgrau",
     "hex": "#b5b8b1",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Aliceblau",
-    "hex": "#a0ce00",
+    "hex": "#f0f8ff",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
@@ -17,12 +17,12 @@
   {
     "name": "Altrosa",
     "hex": "#d36e70",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Anthrazitgrau",
     "hex": "#293133",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Antikes Weiß",
@@ -37,7 +37,7 @@
   {
     "name": "Azurblau",
     "hex": "#025669",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Babyrosa",
@@ -52,47 +52,47 @@
   {
     "name": "Basaltblau",
     "hex": "#7f8da8",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Basaltgrau",
     "hex": "#4e5754",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Beerenrot",
     "hex": "#a45054",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Beige",
     "hex": "#c2b078",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Beigebraun",
     "hex": "#79553d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Beigegelb",
     "hex": "#dfcba4",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Beigegrau",
     "hex": "#6d6552",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Beigerot",
     "hex": "#c1876b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Betongrau",
     "hex": "#686c5e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Bienengelb",
@@ -107,7 +107,7 @@
   {
     "name": "Blassbraun",
     "hex": "#755c48",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Blasse Goldrutenfarbe",
@@ -127,7 +127,7 @@
   {
     "name": "Blassgrün",
     "hex": "#89ac76",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Blattgrün",
@@ -147,27 +147,22 @@
   {
     "name": "Blaugrau",
     "hex": "#474b4e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Blaugrün",
     "hex": "#1f3a3d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Blaulila",
     "hex": "#6c4675",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Blauviolett",
     "hex": "#8a2be2",
-    "link": "https://de.wikipedia.org//wiki/Blauviolett"
-  },
-  {
-    "name": "Blutorange",
-    "hex": "#cb2821",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/Blauviolett"
   },
   {
     "name": "Blütenweiß",
@@ -175,9 +170,14 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Blutorange",
+    "hex": "#cb2821",
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
+  },
+  {
     "name": "Bordeauxviolett",
     "hex": "#641c34",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Braun",
@@ -187,52 +187,52 @@
   {
     "name": "Braunbeige",
     "hex": "#8a6642",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Braungrau",
     "hex": "#464531",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Braungrün",
     "hex": "#39352a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Braunoliv",
     "hex": "#25221b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Braunrot",
     "hex": "#781f19",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Bremerblau",
     "hex": "#005a99",
-    "link": "https://de.wikipedia.org//wiki/Bremer_Gr%C3%BCn"
+    "link": "https://de.wikipedia.org/wiki/Bremer_Grün"
   },
   {
     "name": "Brillantblau",
     "hex": "#3e5f8a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Bronzebraun",
     "hex": "#4f422c",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Cadmiumgelb",
     "hex": "#fff600",
-    "link": "https://en.wikipedia.org/wiki/Citrine_(colour)"
+    "link": "https://en.wikipedia.org/wiki/Citrine (colour)"
   },
   {
     "name": "Capriblau",
     "hex": "#1b5583",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Chiffongelb",
@@ -242,12 +242,12 @@
   {
     "name": "Chinaseidengelb",
     "hex": "#afa468",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Chromoxidgrün",
     "hex": "#2e3a23",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Coelinblau",
@@ -257,12 +257,12 @@
   {
     "name": "Cremebeige",
     "hex": "#f4ece0",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Cremeweiß",
     "hex": "#fdf4e3",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Cremig Pfefferminz",
@@ -282,17 +282,17 @@
   {
     "name": "Currygelb",
     "hex": "#9d9101",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Cyanblau",
     "hex": "#007eff",
-    "link": "https://de.wikipedia.org//wiki/Cyan"
+    "link": "https://de.wikipedia.org/wiki/Cyan"
   },
   {
     "name": "Dahliengelb",
     "hex": "#f3a505",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Delphinblau",
@@ -317,7 +317,7 @@
   {
     "name": "Dragonerblau",
     "hex": "#5f7aa4",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Dunkelblau",
@@ -386,12 +386,12 @@
   },
   {
     "name": "Dunkles Schiefergrau",
-    "hex": "#8fbc8f",
+    "hex": "#2f4f4f",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Dunkles Seegrün",
-    "hex": "#90bd90",
+    "hex": "#8fbc8f",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
@@ -425,9 +425,14 @@
     "link": "https://alpina-farben.de/"
   },
   {
+    "name": "Eisbärweiß",
+    "hex": "#fdfef6",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Eisblau",
     "hex": "#c8d6d3",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Eisbonbon",
@@ -435,14 +440,9 @@
     "link": "https://alpina-farben.de/"
   },
   {
-    "name": "Eisbärweiß",
-    "hex": "#fdfef6",
-    "link": "https://alpina-farben.de/"
-  },
-  {
     "name": "Eisengrau",
     "hex": "#434b4d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Elefantengrau",
@@ -452,7 +452,7 @@
   {
     "name": "Elfenbein",
     "hex": "#e1cc4f",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Entenbraun",
@@ -462,57 +462,57 @@
   {
     "name": "Enzianblau",
     "hex": "#0e294b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Erdbeerrot",
     "hex": "#d53032",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Erikaviolett",
     "hex": "#de4c8a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Eukalyptusgrün",
     "hex": "#aaae99",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Farngrün",
     "hex": "#3d642d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Fehgrau",
     "hex": "#78858b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Feigenviolett",
     "hex": "#645363",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Felsgrau",
     "hex": "#8f8c86",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Fenstergrau",
     "hex": "#9da1aa",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Fernblau",
     "hex": "#49678d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Feuerrot",
-    "hex": "#af2b1e",
-    "link": ""
+    "hex": "#ba342b",
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Fischblau",
@@ -532,7 +532,7 @@
   {
     "name": "Flaschengrün",
     "hex": "#343b29",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Fliederfest",
@@ -597,22 +597,22 @@
   {
     "name": "Gelbgrau",
     "hex": "#8f8b66",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Gelbgrün",
     "hex": "#57a639",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Gelboliv",
     "hex": "#47402e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Gelborange",
     "hex": "#ed760e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Giftgrün",
@@ -622,7 +622,7 @@
   {
     "name": "Ginstergelb",
     "hex": "#d6ae01",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Gletscherblau",
@@ -642,7 +642,7 @@
   {
     "name": "Goldgelb",
     "hex": "#cda434",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Goldrute",
@@ -652,22 +652,22 @@
   {
     "name": "Granitgrau",
     "hex": "#2f353b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Graphitgrau",
     "hex": "#474a51",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Graphitschwarz",
     "hex": "#1c1c1c",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Grasgrün",
-    "hex": "#35682d",
-    "link": ""
+    "hex": "#66a23f",
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Grau",
@@ -677,37 +677,37 @@
   {
     "name": "Graualuminium",
     "hex": "#8f8f8f",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Graubeige",
     "hex": "#9e9764",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Graublau",
     "hex": "#26252d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Graubraun",
     "hex": "#403a3a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Grauoliv",
     "hex": "#3e3b32",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Grauviolett",
     "hex": "#dad4db",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Grauweiß",
     "hex": "#e7ebda",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Grobes Braun",
@@ -722,17 +722,17 @@
   {
     "name": "Grünbeige",
     "hex": "#bebd7f",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Grünblau",
     "hex": "#1f3438",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Grünbraun",
     "hex": "#826c34",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Grüne Neune",
@@ -752,12 +752,12 @@
   {
     "name": "Grüngrau",
     "hex": "#4d5645",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Hafergelb",
     "hex": "#e6c37e",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Hamsterbeige",
@@ -787,7 +787,7 @@
   {
     "name": "Hellelfenbein",
     "hex": "#e6d690",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Helles Cyanblau",
@@ -842,27 +842,27 @@
   {
     "name": "Hellrosa",
     "hex": "#ea899a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Hellrotorange",
     "hex": "#f75e25",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Himbeerrot",
     "hex": "#c51d34",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Himmelblau",
-    "hex": "#2271b3",
-    "link": ""
+    "hex": "#bae2eb",
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Honiggelb",
     "hex": "#a98307",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Honigmelone",
@@ -877,7 +877,7 @@
   {
     "name": "Indigo",
     "hex": "#4b0082",
-    "link": "https://de.wikipedia.org//wiki/Indigo_(Farbe)"
+    "link": "https://de.wikipedia.org/wiki/Indigo_(Farbe)"
   },
   {
     "name": "Indischgelb",
@@ -895,9 +895,19 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
+    "name": "Käferrot",
+    "hex": "#f67066",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Kaffeebraun",
     "hex": "#3f2917",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
+  },
+  {
+    "name": "Kängurubeige",
+    "hex": "#f8ecd3",
+    "link": "https://alpina-farben.de/"
   },
   {
     "name": "Karmesinrot",
@@ -907,12 +917,12 @@
   {
     "name": "Karminrot",
     "hex": "#a2231d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Kastanienbraun",
     "hex": "#633a34",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Khaki",
@@ -922,17 +932,17 @@
   {
     "name": "Khakigrau",
     "hex": "#6a5f31",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Kieferngrün",
     "hex": "#2c5545",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Kieselgrau",
     "hex": "#b8b799",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Kieselstrand",
@@ -952,7 +962,7 @@
   {
     "name": "Kobaltblau",
     "hex": "#1e213d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Kohlrabenschwarz",
@@ -963,6 +973,11 @@
     "name": "Kolibrigrün",
     "hex": "#bbd9c6",
     "link": "https://alpina-farben.de/"
+  },
+  {
+    "name": "Königsblau",
+    "hex": "#4169e1",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
     "name": "Koralle",
@@ -977,7 +992,7 @@
   {
     "name": "Korallenrot",
     "hex": "#b32821",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Kornblumenblau",
@@ -987,12 +1002,12 @@
   {
     "name": "Krapplack",
     "hex": "#6f011e",
-    "link": "https://de.wikipedia.org//wiki/Krapplack"
+    "link": "https://de.wikipedia.org/wiki/Krapplack"
   },
   {
     "name": "Kreideblau",
     "hex": "#dbe3e4",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Kreideweiß",
@@ -1000,34 +1015,19 @@
     "link": "https://github.com/meodai/farbnamen/#authors-David Büsser"
   },
   {
+    "name": "Kükengelb",
+    "hex": "#f7eec1",
+    "link": "https://alpina-farben.de/"
+  },
+  {
     "name": "Kupferbraun",
     "hex": "#8e402a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Kupferorange",
     "hex": "#bc7b59",
-    "link": "https://alpina-farben.de/"
-  },
-  {
-    "name": "Käferrot",
-    "hex": "#f67066",
-    "link": "https://alpina-farben.de/"
-  },
-  {
-    "name": "Kängurubeige",
-    "hex": "#f8ecd3",
-    "link": "https://alpina-farben.de/"
-  },
-  {
-    "name": "Königsblau",
-    "hex": "#4169e1",
-    "link": "https://bfw.ac.at/020/farbtabelle.html"
-  },
-  {
-    "name": "Kükengelb",
-    "hex": "#f7eec1",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Lachs",
@@ -1037,17 +1037,17 @@
   {
     "name": "Lachsorange",
     "hex": "#e55137",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Lachsrot",
     "hex": "#d95030",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Laubgrün",
     "hex": "#2d572c",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Lavendelfarbe",
@@ -1057,17 +1057,17 @@
   {
     "name": "Lavendelviolett",
     "hex": "#b9b3bd",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Lehmblau",
     "hex": "#c9cedb",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Lehmbraun",
     "hex": "#734222",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Leinenfarbe",
@@ -1087,32 +1087,32 @@
   {
     "name": "Leuchtgelb",
     "hex": "#fefe01",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Leuchtgrün",
     "hex": "#00bb2d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Leuchthellorange",
     "hex": "#ffa420",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Leuchthellrot",
     "hex": "#fe0000",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Leuchtorange",
     "hex": "#ff2301",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Leuchtrot",
     "hex": "#f80000",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Libellenblau",
@@ -1122,7 +1122,7 @@
   {
     "name": "Lichtblau",
     "hex": "#3b83bd",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Lichtes Gelb",
@@ -1132,17 +1132,17 @@
   {
     "name": "Lichtgrau",
     "hex": "#d7d7d7",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Lichtgrün",
     "hex": "#84c3be",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Lilienweiß",
     "hex": "#e8e9e7",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Luftschloss",
@@ -1157,12 +1157,12 @@
   {
     "name": "Mahagonibraun",
     "hex": "#4c2f27",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Maigrün",
     "hex": "#4c9141",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Mais",
@@ -1172,12 +1172,12 @@
   {
     "name": "Maisgelb",
     "hex": "#e4a010",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Mandelbeige",
     "hex": "#eddfce",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Mandelblüte",
@@ -1206,48 +1206,48 @@
   },
   {
     "name": "Mausgrau",
-    "hex": "#646b63",
-    "link": ""
+    "hex": "#a5a5a5",
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Melonengelb",
     "hex": "#f4a900",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Messerblau",
     "hex": "#72b9d1",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Minttürkis",
     "hex": "#497e76",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Minzgrün",
     "hex": "#20603d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Mittelblau",
     "hex": "#0000cc",
-    "link": "https://de.wikipedia.org//wiki/Blau"
+    "link": "https://de.wikipedia.org/wiki/Blau"
   },
   {
     "name": "Mittelgelb",
     "hex": "#fdfd02",
-    "link": "https://de.wikipedia.org//wiki/Gelb"
+    "link": "https://de.wikipedia.org/wiki/Gelb"
   },
   {
     "name": "Mittelgrün",
     "hex": "#20a040",
-    "link": "https://de.wikipedia.org//wiki/Mittelgr%C3%BCn"
+    "link": "https://de.wikipedia.org/wiki/Mittelgrün"
   },
   {
     "name": "Mittelrot",
-    "hex": "#12dddd",
-    "link": "https://de.wikipedia.org//wiki/Rot#Mittelrot,_Hochrot,_Blutrot"
+    "hex": "#ff0040",
+    "link": "https://de.wikipedia.org/wiki/Rot#Mittelrot,_Hochrot,_Blutrot"
   },
   {
     "name": "Mitternachtsblau",
@@ -1297,22 +1297,22 @@
   {
     "name": "Mondgrau",
     "hex": "#ebe5e0",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Moosgrau",
     "hex": "#6c7059",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Moosgrün",
     "hex": "#2f4538",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Morgendunst Blau",
     "hex": "#5a697c",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Muschel",
@@ -1326,18 +1326,18 @@
   },
   {
     "name": "Nachtblau",
-    "hex": "#252850",
-    "link": ""
+    "hex": "#232144",
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Nachtbraun",
     "hex": "#53453f",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Narzissengelb",
     "hex": "#dc9d00",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Navajoweiß",
@@ -1357,7 +1357,7 @@
   {
     "name": "Nilblau",
     "hex": "#1f2299",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Nilpferdlila",
@@ -1372,22 +1372,22 @@
   {
     "name": "Nussbraun",
     "hex": "#5b3a29",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Ocker",
     "hex": "#dba621",
-    "link": "https://de.wikipedia.org//wiki/Ocker"
+    "link": "https://de.wikipedia.org/wiki/Ocker"
   },
   {
     "name": "Ockerbraun",
     "hex": "#955f20",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Ockergelb",
     "hex": "#aea04b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Oktopuslila",
@@ -1397,7 +1397,7 @@
   {
     "name": "Olivbraun",
     "hex": "#6f4f28",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Olivfarbiges Graubraun",
@@ -1407,22 +1407,22 @@
   {
     "name": "Olivgelb",
     "hex": "#999950",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Olivgrau",
     "hex": "#7e7b52",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Olivgrün",
     "hex": "#424632",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Opalgrün",
     "hex": "#015d52",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Orange",
@@ -1432,7 +1432,7 @@
   {
     "name": "Orangebraun",
     "hex": "#a65e2e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Orangenrot",
@@ -1447,17 +1447,17 @@
   {
     "name": "Orientrot",
     "hex": "#b32428",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Oxidrot",
     "hex": "#642424",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Ozeanblau",
     "hex": "#1d334a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Papageiengrün",
@@ -1467,17 +1467,17 @@
   {
     "name": "Papayaorange",
     "hex": "#ffc9a9",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Papyrusweiß",
     "hex": "#d8d8d8",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Pariserblau",
     "hex": "#4040ff",
-    "link": "https://de.wikipedia.org//wiki/Pariserblau"
+    "link": "https://de.wikipedia.org/wiki/Pariserblau"
   },
   {
     "name": "Party Pink",
@@ -1487,37 +1487,37 @@
   {
     "name": "Pastellblau",
     "hex": "#5d9b9b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Pastellgelb",
     "hex": "#efa94a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Pastellorange",
     "hex": "#ff7514",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Pastelltürkis",
     "hex": "#7fb5b5",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Pastellviolett",
     "hex": "#a18594",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Patinagrün",
     "hex": "#316650",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Paynesgrau",
     "hex": "#293c42",
-    "link": "https://de.wikipedia.org//wiki/Paynesgrau"
+    "link": "https://de.wikipedia.org/wiki/Paynesgrau"
   },
   {
     "name": "Pechschwarz",
@@ -1527,82 +1527,82 @@
   {
     "name": "Perlbeige",
     "hex": "#6a5d4d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlbrombeer",
     "hex": "#6c6874",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perldunkelgrau",
     "hex": "#828282",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlenzian",
     "hex": "#2a6478",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlgold",
     "hex": "#705335",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlgrün",
     "hex": "#1c542d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlhellgrau",
     "hex": "#9c9c9c",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlkupfer",
     "hex": "#763c28",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlmausgrau",
     "hex": "#898176",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlnachtblau",
     "hex": "#102c54",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlopalgrün",
     "hex": "#193737",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlorange",
     "hex": "#c35831",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlrosa",
     "hex": "#b44c43",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlrubinrot",
     "hex": "#721422",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlviolett",
     "hex": "#8673a1",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Perlweiß",
     "hex": "#eae6ca",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Peru",
@@ -1632,12 +1632,12 @@
   {
     "name": "Pistaziengrün",
     "hex": "#c2c7aa",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Platingrau",
     "hex": "#7f7679",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Poesie der Stille",
@@ -1647,27 +1647,27 @@
   {
     "name": "Porzellanblau",
     "hex": "#5d6c7d",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Preußischblau",
     "hex": "#003153",
-    "link": "https://de.wikipedia.org//wiki/Berliner_Blau"
+    "link": "https://de.wikipedia.org/wiki/Berliner_Blau"
   },
   {
     "name": "Purpurrot",
     "hex": "#75151e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Purpurviolett",
     "hex": "#4a192c",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Quarzgrau",
     "hex": "#6c6960",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Quietschgelb",
@@ -1677,7 +1677,7 @@
   {
     "name": "Rabenblau",
     "hex": "#0f2e53",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Rabenschwarz",
@@ -1687,12 +1687,12 @@
   {
     "name": "Rapsgelb",
     "hex": "#f3da0b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Rauchblau",
     "hex": "#686f84",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Rauchiges Weiß",
@@ -1707,42 +1707,52 @@
   {
     "name": "Rehbraun",
     "hex": "#59351f",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Reingrün",
     "hex": "#008f39",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Reinorange",
     "hex": "#f44611",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Reinrot",
     "hex": "#cb3234",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Reinweiß",
     "hex": "#fefefe",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Resedagrün",
     "hex": "#587246",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Rhabarberrot",
     "hex": "#ac7870",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Rosa",
     "hex": "#ffc0cb",
     "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Rosé",
+    "hex": "#e63244",
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
+  },
+  {
+    "name": "Rosérot",
+    "hex": "#fbdad6",
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Rosige Lavenderfarbe",
@@ -1757,22 +1767,12 @@
   {
     "name": "Rosmaringrün",
     "hex": "#6a8974",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Rostbraun",
     "hex": "#7f3523",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
-  },
-  {
-    "name": "Rosé",
-    "hex": "#e63244",
-    "link": ""
-  },
-  {
-    "name": "Rosérot",
-    "hex": "#fbdad6",
-    "link": "https://alpina-farben.de/"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Rot",
@@ -1782,7 +1782,7 @@
   {
     "name": "Rotbraun",
     "hex": "#592321",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Roter Ahorn",
@@ -1792,32 +1792,32 @@
   {
     "name": "Rotlila",
     "hex": "#6d3f5b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Rotorange",
     "hex": "#c93c20",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Rotviolett",
     "hex": "#922b3e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Rubinrot",
     "hex": "#9b111e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Safrangelb",
     "hex": "#f5d033",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Sandbeige",
     "hex": "#e0ceb6",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Sandbraun",
@@ -1827,7 +1827,7 @@
   {
     "name": "Sandgelb",
     "hex": "#c6a664",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Sanfte Erde",
@@ -1841,8 +1841,8 @@
   },
   {
     "name": "Saphirblau",
-    "hex": "#1d1e33",
-    "link": ""
+    "hex": "#384361",
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Sattelbraun",
@@ -1852,7 +1852,7 @@
   {
     "name": "Scharlachrot",
     "hex": "#ff2400",
-    "link": "https://de.wikipedia.org//wiki/Scharlachrot_(Farbe)"
+    "link": "https://de.wikipedia.org/wiki/Scharlachrot_(Farbe)"
   },
   {
     "name": "Schieferblau",
@@ -1862,12 +1862,12 @@
   {
     "name": "Schiefergrau",
     "hex": "#434750",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schilfgrün",
     "hex": "#6c7156",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schneeweiß",
@@ -1887,7 +1887,7 @@
   {
     "name": "Schokoladen-braun",
     "hex": "#45322e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schwarz",
@@ -1897,37 +1897,37 @@
   {
     "name": "Schwarzblau",
     "hex": "#18171c",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schwarzbraun",
     "hex": "#212121",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schwarzgrau",
     "hex": "#23282b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schwarzgrün",
     "hex": "#343e40",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schwarzoliv",
     "hex": "#3b3c36",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schwarzrot",
     "hex": "#412227",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schwefelgelb",
     "hex": "#edff21",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Schweinchenrosa",
@@ -1942,7 +1942,7 @@
   {
     "name": "Seegrün",
     "hex": "#2e8b57",
-    "link": "https://de.wikipedia.org//wiki/T%C3%BCrkis_(Farbe)"
+    "link": "https://de.wikipedia.org/wiki/Türkis_(Farbe)"
   },
   {
     "name": "Seesternorange",
@@ -1952,67 +1952,67 @@
   {
     "name": "Seidengrau",
     "hex": "#cac4b0",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Sepia",
     "hex": "#704214",
-    "link": "https://de.wikipedia.org//wiki/Sepia_(Farbstoff)"
+    "link": "https://de.wikipedia.org/wiki/Sepia_(Farbstoff)"
   },
   {
     "name": "Sepiabraun",
     "hex": "#382c1e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalblau",
     "hex": "#1e2460",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalbraun",
     "hex": "#6c3b2a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalgelb",
     "hex": "#e5be01",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalgrau",
     "hex": "#969992",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalgrün",
     "hex": "#317f43",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalorange",
     "hex": "#d84b20",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalrot",
     "hex": "#a52019",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalschwarz",
     "hex": "#282828",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalviolett",
     "hex": "#924e7d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Signalweiß",
     "hex": "#f4f4f4",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Silber",
@@ -2022,7 +2022,7 @@
   {
     "name": "Silbergrau",
     "hex": "#8a9597",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Sinfonie",
@@ -2032,7 +2032,7 @@
   {
     "name": "Smaragdgrün",
     "hex": "#287233",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Sommerzeit",
@@ -2042,7 +2042,7 @@
   {
     "name": "Sonnengelb",
     "hex": "#f39f18",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Sonnenstrahl",
@@ -2056,18 +2056,18 @@
   },
   {
     "name": "Stahlblau",
-    "hex": "#231a24",
-    "link": ""
+    "hex": "#7a8aa5",
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Staubgrau",
     "hex": "#7d7f7d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Steingrau",
     "hex": "#8b8c7a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Stilles Wasser",
@@ -2091,13 +2091,13 @@
   },
   {
     "name": "Tannengrün",
-    "hex": "#31372b",
-    "link": ""
+    "hex": "#28362d",
+    "link": "https://deutschlernerblog.de/21-deutsche-farben-schoene-farben-auf-deutsch-besondere-deutsche-woerter-02/"
   },
   {
     "name": "Taubenblau",
     "hex": "#606e8c",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Tea Time",
@@ -2105,29 +2105,14 @@
     "link": "https://alpina-farben.de/"
   },
   {
-    "name": "Telegrau 1",
-    "hex": "#909090",
-    "link": ""
-  },
-  {
-    "name": "Telegrau 2",
-    "hex": "#82898f",
-    "link": ""
-  },
-  {
-    "name": "Telegrau 4",
-    "hex": "#d0d0d0",
-    "link": ""
-  },
-  {
     "name": "Telemagenta",
     "hex": "#cf3476",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Terrabraun",
     "hex": "#4e3b31",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Tiefer Traum",
@@ -2142,7 +2127,7 @@
   {
     "name": "Tieforange",
     "hex": "#ec7c26",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Tiefrosa",
@@ -2152,7 +2137,7 @@
   {
     "name": "Tiefschwarz",
     "hex": "#0a0a0a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Tochter der Antike",
@@ -2167,102 +2152,102 @@
   {
     "name": "Tomatenrot",
     "hex": "#a12312",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Torfbraun",
     "hex": "#674e3f",
-    "link": "https://github.com/meodai/farbnamen/#authors-undefined"
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Türkis",
     "hex": "#00ffff",
-    "link": "https://de.wikipedia.org//wiki/T%C3%BCrkis_(Farbe)"
+    "link": "https://de.wikipedia.org/wiki/Türkis_(Farbe)"
   },
   {
     "name": "Türkisblau",
-    "hex": "#3f888f",
-    "link": ""
+    "hex": "#3b8587",
+    "link": "https://flora-obscura.de/"
   },
   {
     "name": "Türkisgrün",
     "hex": "#1e5945",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Ultramarinblau",
     "hex": "#20214f",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Umbra",
     "hex": "#635147",
-    "link": "https://de.wikipedia.org//wiki/Umbra_(Farbe)"
+    "link": "https://de.wikipedia.org/wiki/Umbra_(Farbe)"
   },
   {
     "name": "Umbragrau",
     "hex": "#332f2c",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Vanillegelb",
     "hex": "#fbeebf",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Venezianischrot",
     "hex": "#d57453",
-    "link": "https://de.wikipedia.org//wiki/Eisenoxidrot"
+    "link": "https://de.wikipedia.org/wiki/Eisenoxidrot"
   },
   {
     "name": "Verkehrs-schwarz",
     "hex": "#1e1e1e",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Verkehrsblau",
     "hex": "#063971",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Verkehrsgelb",
     "hex": "#fad201",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Verkehrsgrau A",
     "hex": "#8d948d",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Verkehrsgrau B",
     "hex": "#4e5452",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Verkehrsgrün",
     "hex": "#308446",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Verkehrsorange",
     "hex": "#f54021",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Verkehrspurpur",
     "hex": "#a03472",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Verkehrsrot",
     "hex": "#cc0605",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Verkehrsweiß",
     "hex": "#f6f6f6",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Vers in Pastell",
@@ -2272,12 +2257,12 @@
   {
     "name": "Violett",
     "hex": "#a146ff",
-    "link": "https://de.wikipedia.org//wiki/Violett"
+    "link": "https://de.wikipedia.org/wiki/Violett"
   },
   {
     "name": "Violettblau",
     "hex": "#354d73",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Waldgrün",
@@ -2292,7 +2277,7 @@
   {
     "name": "Wasserblau",
     "hex": "#256d7b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Wasserfall",
@@ -2307,7 +2292,22 @@
   {
     "name": "Weinrot",
     "hex": "#5e2129",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
+  },
+  {
+    "name": "Weiß",
+    "hex": "#fdfdfd",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
+  },
+  {
+    "name": "Weißaluminium",
+    "hex": "#a6a6a6",
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
+  },
+  {
+    "name": "Weißgrün",
+    "hex": "#bdecb6",
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Weiter Horizont",
@@ -2320,24 +2320,9 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
-    "name": "Weiß",
-    "hex": "#fdfdfd",
-    "link": "https://bfw.ac.at/020/farbtabelle.html"
-  },
-  {
-    "name": "Weißaluminium",
-    "hex": "#a5a5a5",
-    "link": ""
-  },
-  {
-    "name": "Weißgrün",
-    "hex": "#bdecb6",
-    "link": ""
-  },
-  {
     "name": "Wellenblau",
     "hex": "#b8d6e5",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Wildes Paradies",
@@ -2347,7 +2332,7 @@
   {
     "name": "Wolkengrau",
     "hex": "#c4c0be",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Wolkenreise",
@@ -2362,7 +2347,7 @@
   {
     "name": "Zartorange",
     "hex": "#f9ebe5",
-    "link": "https://alpina-farben.de/"
+    "link": "https://alpina-farben.de/sortiment/pure-farben/"
   },
   {
     "name": "Zauber der Wüste",
@@ -2372,12 +2357,12 @@
   {
     "name": "Zeltgrau",
     "hex": "#4c514a",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Zementgrau",
     "hex": "#7d8471",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Ziegelfarbe",
@@ -2387,17 +2372,17 @@
   {
     "name": "Zinkgelb",
     "hex": "#f8f32b",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Zinnoberrot",
-    "hex": "#90cffa",
-    "link": "https://de.wikipedia.org//wiki/Rot#Zinnoberrot,_Permanentrot,_Feuerrot"
+    "hex": "#fe0101",
+    "link": "https://de.wikipedia.org/wiki/Rot#Zinnoberrot,_Permanentrot,_Feuerrot"
   },
   {
     "name": "Zitronengelb",
     "hex": "#c7b446",
-    "link": ""
+    "link": "https://de.wikipedia.org/wiki/RAL-Farbe"
   },
   {
     "name": "Zitronengrün",
@@ -2405,13 +2390,13 @@
     "link": "https://bfw.ac.at/020/farbtabelle.html"
   },
   {
-    "name": "Zyanblau",
-    "hex": "#01fefe",
-    "link": "https://bfw.ac.at/020/farbtabelle.html"
-  },
-  {
     "name": "Züriblau",
     "hex": "#0f05a0",
     "link": "https://github.com/meodai/farbnamen/#authors-David Büsser"
+  },
+  {
+    "name": "Zyanblau",
+    "hex": "#01fefe",
+    "link": "https://bfw.ac.at/020/farbtabelle.html"
   }
 ]

@@ -32,6 +32,6 @@ npm test
 - [BFW: HTML Farbtabelle](https://bfw.ac.at/020/farbtabelle.html)
 - [Alpina pure farben](https://alpina-farben.de/sortiment/pure-farben/)
 
-## List of Color Names 🔖 (**483**)
+## List of Color Names 🔖 (**480**)
 
 ![Liste aller Farben](colors.svg "Liste von allen deutschen Farben")
