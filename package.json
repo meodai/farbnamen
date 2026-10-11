@@ -2,28 +2,52 @@
   "name": "farbnamen",
   "version": "0.8.0",
   "description": "Liste aller deutschen Farbnamen",
-  "main": "index.js",
   "type": "module",
+  "main": "colors.json",
+  "exports": {
+    ".": "./colors.json",
+    "./colors.json": "./colors.json",
+    "./colors.min.json": "./colors.min.json",
+    "./colors.csv": "./colors.csv",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "colors.json",
+    "colors.min.json",
+    "colors.csv"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node scripts/fetch.js && node scripts/createimage.js"
+    "fetch": "node scripts/fetch.js",
+    "render": "node scripts/createimage.js",
+    "build": "npm run fetch && npm run render",
+    "test": "node --test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meodai/farbnamen.git.git"
+    "url": "git+https://github.com/meodai/farbnamen.git"
   },
   "keywords": [
     "farben",
-    "namen"
+    "farbnamen",
+    "namen",
+    "color",
+    "colors",
+    "colour",
+    "words",
+    "german",
+    "deutsch"
   ],
   "author": "meodai@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/meodai/farbnamen.git/issues"
+    "url": "https://github.com/meodai/farbnamen/issues"
   },
-  "homepage": "https://github.com/meodai/farbnamen.git/#readme",
+  "homepage": "https://github.com/meodai/farbnamen#readme",
   "devDependencies": {
-    "culori": "^3.3.0",
-    "puppeteer": "^21.5.2"
+    "culori": "^4.0.2",
+    "puppeteer": "^25.13.0"
   }
 }
